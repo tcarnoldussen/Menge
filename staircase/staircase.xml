@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<Project 
+	scene="staircase/staircaseS.xml" 
+	behavior="staircase/staircaseB.xml" 
+	view="staircase/staircaseV.xml" 
+	model="orca"
+	dumpPath="images/staircase"
+/>

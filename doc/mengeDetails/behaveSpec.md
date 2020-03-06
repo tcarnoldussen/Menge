@@ -19,7 +19,7 @@ change arises from the agent's actions (such as achieving a goal) and other time
 independent events which nevertheless affect the agent. The behavior FSM provides mechanisms for
 both.
 
-Let's consider a concrete example: taking a subway ride. We'll followa single passenger and observe
+Let's consider a concrete example: taking a subway ride. We'll follow a single passenger and observe
 his changing behaviors as he goes through a typical subway experience. First, the passenger enters
 the station. We'll assume he's a tourist and has to buy a subway ticket. So, he goes to the ticket
 kiosks. Because it's mid-morning, there are a number of other passengers and he waits in line to buy
